@@ -9,7 +9,6 @@ var jvObjectFilter = function(obj, filter){
 
     if(typeof filter == 'string') {
          keys = String.prototype.split.call(filter, / +/)
-         console.log(keys)
     }
     else if(jvIsArray(filter)) {
         keys = filter

@@ -26,5 +26,8 @@
   "homepage": "https://github.com/jjvein/jv-object-filter#readme",
   "dependencies": {
     "jv-is-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1"
   }
 }
