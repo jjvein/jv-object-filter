@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jjvein/jv-object-filter/issues"
   },
-  "homepage": "https://github.com/jjvein/jv-object-filter#readme"
+  "homepage": "https://github.com/jjvein/jv-object-filter#readme",
+  "dependencies": {
+    "jv-is-array": "^1.0.0"
+  }
 }
